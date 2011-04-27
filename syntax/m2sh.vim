@@ -18,7 +18,7 @@ syntax keyword m2HostSettings name matching server maintenance routes contained
 syntax keyword m2RouteSettings path reversed host target contained
 syntax keyword m2DirSettings base index_file default_ctype contained
 syntax keyword m2ProxySettings addr port contained
-syntax keyword m2HandlerSettings send_spec send_ident recv_spec recv_ident contained
+syntax keyword m2HandlerSettings send_spec send_ident recv_spec recv_ident protocol contained
 
 syntax keyword m2KeywordIdentifiers servers settings mimetypes
 
